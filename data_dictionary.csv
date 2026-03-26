@@ -1,0 +1,14 @@
+Name,Description,Data type,Units,Possible values or categories
+Person ID,An identifier for each individual.,Integer,-,1 - 374
+Gender,The gender of the person.,String,-,Male / Female
+Age,The age of the person in years,Integer,Years,27 - 59
+Occupation,The occupation or profession of the person.,String,-,"232 categories, including ""Doctor"", ""Nurse"", ""Software Engineer"", etc."
+Sleep Duration,The number of hours the person sleeps per day.,Numeric,Hours,5.8 - 8.5
+Quality of Sleep,"A subjective rating of the quality of sleep, ranging from 1 to 10.",Integer,-,1 - 10
+Physical Activity Level,The number of minutes the person engages in physical activity daily.,Integer,Minutes/day,30 - 90
+Stress Level,A subjective rating of the stress level experienced by the person.,Integer,-,1 - 10
+BMI Category,The BMI category of the person.,String,-,Underweight / Normal / Overweight.
+Blood Pressure,The blood pressure measurement of the person.,Integer,"Systolic (top, heart beating) / Diastolic (bottom, heart resting)",25 different categories
+Heart Rate,The resting heart rate of the person in beats per minute.,Integer,beats per minute (bpm),65 - 86
+Daily Steps,The number of steps the person takes per day.,Integer,-,3000 - 10000
+Sleep Disorder,The presence or absence of a sleep disorder in the person.,String,-,None / Insomnia / Sleep Apnea
